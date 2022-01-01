@@ -19,4 +19,3 @@ Start Date : Jan 1st 2022
 * "If you are persistent, you will get it. If you are consistent, you will keep it." -Richard G Scott.
 * "Success isn't always about greatness. It's about consistency. Consistent hard work leads to success. Greatness will come." -Dwayne Johnson.
 
-R
