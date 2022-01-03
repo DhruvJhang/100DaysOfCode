@@ -1,5 +1,5 @@
 # 100DaysOfCode
-I am taking up the #100DaysOfCodeChallenge from Jan 1st 2022. Under this challenge , I have to code for atleast an hour every day for 100 days. Here are the Rules which I will be following for the challenge.
+I am taking up the #100DaysOfCodeChallenge from Jan 3rd 2022. Under this challenge , I have to code for atleast an hour every day for 100 days. Here are the Rules which I will be following for the challenge.
 
 I will be maintaining a Log in this repo, so that anyone can track my progress. All my work will be linked in Log.
 
